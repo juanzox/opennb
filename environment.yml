@@ -1,0 +1,9 @@
+name: opennb
+channels:
+    - opennb
+dependencies:
+    - pandas
+    - matplotlib
+    - pip
+    - scikit-learn
+    - scipy
